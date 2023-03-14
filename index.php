@@ -11,14 +11,35 @@
 
 <body>
     <header>
-    <nav class="navbar navbar-light bg-light">
-  <a class="navbar-brand" href="#">
-    <img src="" width="30" height="30" class="d-inline-block align-top" alt="">
-    DevelopHarware
-  </a>
-</nav>
+        <nav class="navbar navbar-light bg-light">
+            <a class="navbar-brand" href="#">
+                <img src="" width="30" height="30" class="d-inline-block align-top" alt="">
+                DevelopHarware
+            </a>
+        </nav>
         <menu>
-
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">Navbar</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Alterna navegação">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Home <span class="sr-only">(Página atual)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Destaques</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Preços</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link disabled" href="#">Desativado</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
         </menu>
     </header>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
