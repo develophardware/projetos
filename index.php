@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -11,9 +11,12 @@
 
 <body>
     <header>
-    <div class="alert alert-danger" role="alert">
-           Postar Projetos Realizados
-        </div>
+    <nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+    <img src="" width="30" height="30" class="d-inline-block align-top" alt="">
+    DevelopHarware
+  </a>
+</nav>
         <menu>
 
         </menu>
