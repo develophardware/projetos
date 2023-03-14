@@ -41,5 +41,7 @@ lampAcender.addEventListener('click', acender);
 lampApagar.addEventListener('click', apagar);
 // passar o mouse e acender a lampada 
 imgLAmp.addEventListener('mouseover', acender);
+// tirar o mouse e apagar a lampada
 imgLAmp.addEventListener('mouseleave', apagar);
+// Duplo click para quebrar a lampada 
 imgLAmp.addEventListener('dblclick', quebrar);
