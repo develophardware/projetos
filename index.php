@@ -30,9 +30,9 @@
                         JavaScript
                       </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href="./Calculo-IMC/index.html">Calculo IMC</a>
-                                <a class="dropdown-item" href="/Projeto-Lampada/index.html">Projeto Lampada</a>
-                                <a class="dropdown-item" href="#">Algo mais aqui</a>
+                                <a class="dropdown-item" target="_blank" href="./Calculo-IMC/index.html">Calculo IMC</a>
+                                <a class="dropdown-item" target="_blank" href="/Projeto-Lampada/index.html">Projeto Lampada</a>
+                                
                             </div>
                         </li>
                         <li class="nav-item dropdown">
