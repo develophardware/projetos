@@ -3,6 +3,7 @@ require_once '../header.php';
 
 ?>
 
+<html>
 
 <body>
 
@@ -20,3 +21,5 @@ require_once '../header.php';
         <script src="script.js"></script>
 </body>
 
+
+</html>
