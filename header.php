@@ -31,7 +31,7 @@
                       </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <a class="dropdown-item" target="_blank" href="./Calculo-IMC/index.php">Calculo IMC</a>
-                                <a class="dropdown-item" target="_blank" href="/Projeto-Lampada/index.html">Projeto Lampada</a>
+                                <a class="dropdown-item" target="_blank" href="/Projeto-Lampada/index.php">Projeto Lampada</a>
                                 
                             </div>
                         </li>
