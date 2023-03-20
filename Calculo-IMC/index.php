@@ -1,5 +1,7 @@
 <?php
 require_once '../js-projetos/index.php';
+
+echo "Ola";
 ?>
 
 <!DOCTYPE html>
