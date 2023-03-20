@@ -1,4 +1,3 @@
-
 const calcular = document.getElementById("calcular");
 
 
@@ -17,12 +16,6 @@ function calc() {
 
     if ((peso !== "") && (altura !== "")) {
         retorno = peso / (altura * altura);
-
-        // if (retorno < 18.5) {
-        //     alert("Abaixo do Peso!");
-        // } if else {
-        //     alert("Acima do Peso");
-        // }
 
         resposta.textContent = `Valor do IMC: ${retorno.toFixed(2)}`;
 

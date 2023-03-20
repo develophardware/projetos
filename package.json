@@ -1,0 +1,11 @@
+{
+    "name": "js-projetos",
+    "version": "1.0.0",
+    "description": "-- Projetos para Estudo da Linguagem Javascript\r 1º - Calculo de IMc \r -- Conceitos de Captura de dados getElementByid e textcontent",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Paulo Rodrigues",
+    "license": "ISC"
+}

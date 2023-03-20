@@ -40,8 +40,6 @@
                         PHP
                       </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href="./Calculo-IMC/index.html">Calculo IMC</a>
-                                <a class="dropdown-item" href="#">Outra ação</a>
                                 <a class="dropdown-item" href="#">Algo mais aqui</a>
                             </div>
                         </li>
@@ -50,8 +48,6 @@
                         CSS
                       </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href="./Calculo-IMC/index.html">Calculo IMC</a>
-                                <a class="dropdown-item" href="#">Outra ação</a>
                                 <a class="dropdown-item" href="#">Algo mais aqui</a>
                             </div>
                         </li>
