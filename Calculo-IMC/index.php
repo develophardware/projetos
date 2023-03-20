@@ -1,5 +1,5 @@
 <?php
-require_once '../js-projetos/index.php';
+// require_once '../js-projetos/index.php';
 
 echo "Ola";
 ?>
