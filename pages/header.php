@@ -14,7 +14,7 @@
     <header>
         <nav class="navbar navbar-light bg-light">
             <a class="navbar-brand" href="#">
-                <img src="./img/logo.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> DevelopHardware
+                <img src="/js-projetos/img/logo.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> DevelopHardware
             </a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Alterna navegação">
