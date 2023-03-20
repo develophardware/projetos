@@ -1,3 +1,3 @@
 <?php
 
-require_once '../js-projetos/pages/header.php';
+require_once './pages/header.php';
