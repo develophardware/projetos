@@ -44,8 +44,7 @@ function lampOnOf() {
     } else {
         apagar();
         lamp.textContent == 'Ligar';
-        lamp.classList.remove('btn btn-outline-success');
-        lamp.classList.add('btn btn-outline-danger');
+
 
     }
 }
