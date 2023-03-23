@@ -42,7 +42,8 @@ function lampOnOf() {
         lamp.textContent = 'Desligar';
 
     } else {
-
+        apagar();
+        lamp.textContent = 'Ligar';
     }
 }
 
