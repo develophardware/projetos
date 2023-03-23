@@ -43,7 +43,7 @@ function lampOnOf() {
 
     } else {
         apagar();
-        lamp.textContel.classList.remove('teste');
+        lamp.textContent == 'Ligar';
         lamp.classList.remove('btn btn-outline-success');
         lamp.classList.add('btn btn-outline-danger');
 
