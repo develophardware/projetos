@@ -1,4 +1,5 @@
-const lamp = document.getElementById('lampOnOf');
+const lampAcender = document.getElementById('lampAcender');
+const lampApagar = document.getElementById('lampApagar');
 const imgLAmp = document.getElementById('imgLamp');
 
 
@@ -36,17 +37,8 @@ function quebrar() {
 
 }
 
-function lampOnOf() {
-    if (lamp.textContent == 'Ligar') {
-        acender();
-        lamp.textContent = 'Desligar';
-
-    } else {
-
-    }
-}
-
-lamp.addEventListener('click', lampOnOf);
+lampAcender.addEventListener('click', acender);
+lampApagar.addEventListener('click', apagar);
 // passar o mouse e acender a lampada 
 imgLAmp.addEventListener('mouseover', acender);
 // tirar o mouse e apagar a lampada

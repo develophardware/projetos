@@ -12,11 +12,10 @@ require_once '../pages/header.php';
         <div class="alert alert-danger" role="alert">
             Acender, Apagar ou Quebrar Lampada!
             Tenha a disposição sua escolha.
-            Somente um Botão.
         </div>
         <img src="img/acessa.jpg" alt="" id="imgLamp">
-        <button type="button" class="btn btn-outline-success" id="lampOnOf">Acender</button>
-
+        <button type="button" class="btn btn-outline-success" id="lampAcender">Acender</button>
+        <button type="button" class="btn btn-outline-danger" id="lampApagar">Apagar</button>
     </main>
 
     <script src="script.js"></script>
