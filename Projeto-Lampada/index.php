@@ -15,7 +15,7 @@ require_once '../pages/header.php';
             Somente um Botão.
         </div>
         <img src="img/acessa.jpg" alt="" id="imgLamp">
-        <button type="button" class="btn btn-outline-success" id="lampOnOf">Acender</button>
+        <button type="button" class="btn btn-outline-success" id="lampOnOf"></button>
 
     </main>
 

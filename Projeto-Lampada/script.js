@@ -43,7 +43,7 @@ function lampOnOf() {
 
     } else {
         apagar();
-        lamp.textContent = 'Ligar';
+        lamp.textContent == 'Ligar';
     }
 }
 
