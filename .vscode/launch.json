@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://projetos-estudos-javascript.herokuapp.com/Projeto-Lampada/index.php",
+            "request": "launch",
+            "url": "https://projetos-estudos-javascript.herokuapp.com/Projeto-Lampada/index.php"
+        }
+    ]
+}
