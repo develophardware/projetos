@@ -24,7 +24,7 @@
                     <ul class="navbar-nav">
                         <li class="nav-item active">
                             <!-- <a class="nav-link" href="#">Home <span class="sr-only">(Página atual)</span></a> -->
-                            <a class="nav-link" href="#">Home <span class="sr-only"></span></a>
+                            <a class="nav-link" href="#">Inicio <span class="sr-only"></span></a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
