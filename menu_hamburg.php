@@ -208,7 +208,7 @@ tr:nth-child(even) {
                         <line x1="6" y1="6" x2="18" y2="18"></line>
                     </svg>
                 </label>
-                <span>MENU</span>
+                <span>CATÁLOGOS</span>
             </div>
             <ul>
                 <li><label><a href="#">FREMAX</a></label></li>
@@ -221,8 +221,7 @@ tr:nth-child(even) {
             </ul>
         </div>
         <h1>CATALOGO</h1>
-        <h1>CATALOGO</h1>
-        <p>CATALOGO</p>
+        
     </nav>
     <table>
   <tr>
