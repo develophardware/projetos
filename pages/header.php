@@ -14,7 +14,7 @@
     <header style="margin: 1em;">
         <nav class="navbar navbar-light bg-light">
             <a class="navbar-brand" href="#">
-                <img src="../img/logo.png" width="30" height="30" class="d-inline-block align-top" alt=""> DevelopHardware
+                <img src="../../projetos/img/logo.png" width="30" height="30" class="d-inline-block align-top" alt=""> DevelopHardware
             </a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Alterna navegação">
