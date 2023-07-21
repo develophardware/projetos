@@ -13,10 +13,10 @@ jobs:
     
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-      with:
-        username: ${{ secrets.ftp_user }}
+      with:        
         server: ${{ secrets.ftp_host }}        
         password: ${{ secrets.ftp_password }}
+        username: ${{ secrets.ftp_user }}
         server-dir: 
         exclude: |
           **/.git*
