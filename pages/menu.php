@@ -9,21 +9,14 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
-                        <li class="nav-item active">
+                        <!-- <li class="nav-item active">
                             <!-- <a class="nav-link" href="#">Home <span class="sr-only">(Página atual)</span></a> -->
-                            <a class="nav-link text-light bg-dark rounded-pill" href="#">Home <span class="sr-only"></span></a>
-                        </li>
+                            <!-- <a class="nav-link text-light bg-dark rounded-pill" href="#">Home <span class="sr-only"></span></a> -->
+                        <!-- </li> --> -->
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Projetos
                             </a>
-                            <li class="dropdown"><a href="" class="dropdown-toggle" data-toggle="dropdown" href="#"> Projetos</a>
-                                <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" target="_blank" href="/Calculo-IMC/index.php">Calculo IMC</a></li>
-                                    <li><a class="dropdown-item" target="_blank" href="/Projeto-Lampada/index.php">Projeto Lampada</a></li>
-                                </ul>    
-                            </li>
-                            
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <a class="dropdown-item" target="_blank" href="/Calculo-IMC/index.php">Calculo IMC</a>
                                 <a class="dropdown-item" target="_blank" href="/Projeto-Lampada/index.php">Projeto Lampada</a>
