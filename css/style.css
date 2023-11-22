@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: rgb(37, 36, 36);
+    height: 100vh;
+}
+
+.interface {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+}
+
+
+/* Cabeçalho */
+
+header {
+    padding: 40px 4%;
+}
+
+
+/* Logo */
+
+header .interface .logo img {
+    border-radius: 30px;
+}
+
+
+/* Foto */
+
+main .img-topo-site img {
+    border-radius: 200px;
+}
+
+header>.interface {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a {
+    color: #7d7d7d;
+    text-decoration: none;
+    display: inline-block;
+}
+
+header ul li a:hover {
+    color: #fedd58;
+    transform: scale(1.05);
+    text-decoration: underline;
+    /* background-color: #fedd58; */
+    /* padding: 5px 20px; */
+    border: 0;
+    border-radius: 30px;
+    /* box-shadow: 0px 0px 8px yellowgreen; */
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 0 40px;
+}
+
+.btn-contato button {
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #fedd58;
+    color: #fff;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.btn-contato button:hover {
+    box-shadow: 0px 0px 8px yellowgreen;
+    transform: scale(1.05);
+}
+
+
+/* topo site Main */
+
+section.topo-site {
+    padding: 40px 4%;
+}
+
+section.topo-site .flex {
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+}
+
+.topo-site .txt-topo-site h1 {
+    color: #fff;
+    font-size: 34px;
+    line-height: 40px;
+}
+
+.topo-site .txt-topo-site h1 span {
+    color: #fedd58;
+}
+
+.topo-site .txt-topo-site p {
+    color: #fff;
+    margin: 40px 0;
+}
+
+
+/* Efeito de flutuação da imagem */
+
+.topo-site .img-topo-site img {
+    position: relative;
+    animation: fluter 2s ease-in-out infinite alternate;
+}
+
+@keyframes fluter {
+    0% {
+        top: 0;
+    }
+    100% {
+        top: 30px;
+    }
+}
