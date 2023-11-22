@@ -24,7 +24,7 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Sobre mim</a>
+                            <a class="nav-link" href="#">Sobre Mim</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Contato</a>
