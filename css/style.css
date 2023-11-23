@@ -98,7 +98,8 @@ header nav ul li {
     transition: .2s;
 }
 
-button:hover {
+button:hover,
+form .btn-enviar input:hover {
     box-shadow: 0px 0px 8px yellowgreen;
     transform: scale(1.05);
 }
@@ -306,3 +307,55 @@ section.portfolio .flex {
 
 
 /* Portfólio */
+
+
+/* Formulário */
+
+section.formulario {
+    padding: 88px 4%;
+}
+
+.formulario .interface form {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 40px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    background-color: #7d7d7d3d;
+    padding: 20px 15px;
+    margin: 2px 0px;
+    border: 0;
+    outline: 0;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 18px;
+    resize: none;
+}
+
+form input::placeholder,
+form textarea::placeholder {
+    color: #fedd58;
+}
+
+form .btn-enviar {
+    margin-top: 20px;
+    text-align: center;
+}
+
+section.formulario .btn-enviar input {
+    width: 120px;
+    background-color: #fedd58;
+    font-weight: 600;
+    cursor: pointer;
+    transition: .2s;
+}
+
+
+/* Formulário */
