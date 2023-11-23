@@ -1,3 +1,5 @@
+/* Estilo Geral */
+
 * {
     margin: 0;
     padding: 0;
@@ -27,6 +29,12 @@ header {
 }
 
 
+/* Estilo Geral */
+
+
+/* Cabeçalho */
+
+
 /* Logo */
 
 header .interface .logo img {
@@ -34,11 +42,17 @@ header .interface .logo img {
 }
 
 
+/* Logo */
+
+
 /* Foto */
 
 main .img-topo-site img {
     border-radius: 200px;
 }
+
+
+/* Foto */
 
 header>.interface {
     display: flex;
@@ -118,6 +132,9 @@ section.topo-site .flex {
 }
 
 
+/* topo site Main */
+
+
 /* Efeito de flutuação da imagem */
 
 .topo-site .img-topo-site img {
@@ -133,3 +150,93 @@ section.topo-site .flex {
         top: 30px;
     }
 }
+
+
+/* Efeito de flutuação da imagem */
+
+
+/* Habilidades */
+
+section.habilidades {
+    padding: 40px 4%;
+}
+
+section.habilidades .flex {
+    gap: 60px;
+}
+
+section.habilidades h2 {
+    color: #fff;
+    font-size: 38px;
+    text-align: center;
+}
+
+h2 span {
+    color: #fedd58;
+}
+
+.habilidades .habilidades-box {
+    color: #ffffff57;
+    padding: 40px;
+    /* border: 2px solid #fff; */
+    border-radius: 20px;
+    margin-top: 45px;
+    transition: .2s;
+    /* cursor: pointer; */
+}
+
+.habilidades .habilidades-box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px #fff;
+}
+
+.habilidades .habilidades-box i {
+    color: #fedd58;
+    font-size: 70px;
+}
+
+.habilidades .habilidades-box h3 {
+    font-size: 28px;
+    margin: 15px 0;
+}
+
+
+/* Habilidades */
+
+
+/* Sobre */
+
+section.sobre {
+    padding: 40px 4%;
+}
+
+section.sobre .flex {
+    align-items: center;
+    gap: 60px;
+}
+
+section.sobre .txt-sobre {
+    color: #fff;
+}
+
+section.sobre .txt-sobre h2 {
+    font-size: 40px;
+}
+
+section.sobre .txt-sobre h2 span {
+    display: block;
+    line-height: 40px;
+    margin-bottom: 40px;
+}
+
+section.sobre .txt-sobre p {
+    margin: 20px 0;
+    text-align: justify;
+}
+
+section.sobre .img-sobre img {
+    border-radius: 20px;
+}
+
+
+/* Sobre */
