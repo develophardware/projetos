@@ -144,8 +144,8 @@
             <div class="interface">
                 <h2>MEU <span>PORTFÓLIO. </span></h2>
                 <div class="flex">
-                    <div class="img-port" style="background-image: url(img/img-port.png);">
-                        <div class="over">Projeto PortFolio</div>
+                    <div class="img-port" style="background-image: url(img/generator_assing.PNG);">
+                        <div class="over">Email signature generator</div>
                     </div>
                     <div class="img-port" style="background-image: url(img/img-port.png);">
                         <div class="over">Projeto PortFolio</div>
@@ -169,8 +169,29 @@
                 </form>
             </div><!--interface-->
         </section><!--formulario-->
-
     </main>
+    <footer>
+        <div class="interface">
+            <div class="line-footer">
+                <div class="logo-footer">
+                <img src="img/logo.png" width="30" height="30" class="d-inline-block align-top"
+                        alt="Logo Develop Hardware footer">
+                </div><!--logo-footer-->
+                <div class="btn-social">
+                    <a href="https://www.linkedin.com/in/poldrigues/" target="_blank"><button><i
+                                class="bi bi-linkedin"></i></button></a>
+                    <a href="https://github.com/develophardware" target="_blank"><button><i
+                                class="bi bi-github"></i></button></a>
+                    <a href="https://www.instagram.com/develophardware/" target="_blank"><button><i
+                                class="bi bi-instagram"></i></button></a>
+                    <a href="#c" target="_blank"><button><i class="bi bi-youtube"></i></button></a>
+                </div><!--btn-social-->
+            </div><!--line-footer-->
+            <div class="line-footer">
+                <p><a href="mailto:develophardware@outlook.com.br"><i class="bi bi-envelope-fill"></i></a></p>
+            </div><!--line-footer-->
+        </div><!--interface-->
+    </footer>
 
 </body>
 

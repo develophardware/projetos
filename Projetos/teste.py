@@ -7,4 +7,15 @@ else:
     print(f'N]ao encontrei')
 
 
+string = '100'
 
+
+
+condicao = True
+
+while condicao:
+    nome = input("Nome: ")
+    print(nome)
+
+    if nome == 'sair':
+        break
