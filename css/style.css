@@ -21,6 +21,10 @@ body {
     display: flex;
 }
 
+.flex a {
+    color: #fff;
+}
+
 
 /* Cabeçalho */
 

@@ -145,7 +145,7 @@
                 <h2>MEU <span>PORTFÓLIO. </span></h2>
                 <div class="flex">
                     <div class="img-port" style="background-image: url(img/generator_assing.PNG);">
-                        <div class="over">Email signature generator</div>
+                        <div class="over"><a href="https://github.com/develophardware/generator-signature-email" target="_blank">signature generator |Python|Streamlit|</a> </div>
                     </div>
                     <div class="img-port" style="background-image: url(img/img-port.png);">
                         <div class="over">Projeto PortFolio</div>
